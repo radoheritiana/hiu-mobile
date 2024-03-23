@@ -1,0 +1,8 @@
+{
+  "name": "hiu_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1c471617"
+}
